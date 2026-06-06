@@ -15,8 +15,8 @@
 - Forge: `47.4.x`
 - Minecraft: `1.20.1`
 - Changed: `0.15.4`
-- Changed Addon Plus: `2.8.x`
-- changedE: `1.0.x`
+- Changed Addon Plus: `2.8.2b`
+- changedE: `1.1.0`
 
 # 已知现象
 - 正式环境中，创建新世界或进入 `changede:latex_space` 后可能长时间卡在加载界面。
